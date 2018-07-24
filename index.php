@@ -162,10 +162,10 @@
 				</header>
 				<div class="inner gallery">
 					<div class="row gtr-0">
-						<div class="col-3 col-12-mobile"><a href="images/fulls/01.jpg" class="image fit"><img src=""><img src="images/thumbs/01.jpg" alt="" title="Ad infinitum" /></a></div>
-						<div class="col-3 col-12-mobile"><a href="images/fulls/02.jpg" class="image fit"><img src="images/thumbs/02.jpg" alt="" title="Dressed in Clarity" /></a></div>
-						<div class="col-3 col-12-mobile"><a href="images/fulls/03.jpg" class="image fit"><img src="images/thumbs/03.jpg" alt="" title="Raven" /></a></div>
-						<div class="col-3 col-12-mobile"><a href="images/fulls/04.jpg" class="image fit"><img src="images/thumbs/04.jpg" alt="" title="I'll have a cup of Disneyland, please" /></a></div>
+						<div class="col-3 col-12-mobile"><a href="#" class="image fit"><img src=""><img src="images/thumbs/01.jpg" alt="" title="Ad infinitum" /></a></div>
+						<div class="col-3 col-12-mobile"><a href="#" class="image fit"><img src="images/thumbs/02.jpg" alt="" title="Dressed in Clarity" /></a></div>
+						<div class="col-3 col-12-mobile"><a href="#" class="image fit"><img src="images/thumbs/03.jpg" alt="" title="Raven" /></a></div>
+						<div class="col-3 col-12-mobile"><a href="#" class="image fit"><img src="images/thumbs/04.jpg" alt="" title="I'll have a cup of Disneyland, please" /></a></div>
 					</div>
 					<div class="row gtr-0">
 						<div class="col-3 col-12-mobile"><a href="images/fulls/05.jpg" class="image fit"><img src="images/thumbs/05.jpg" alt="" title="Cherish" /></a></div>
